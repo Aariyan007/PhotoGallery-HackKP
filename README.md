@@ -1,10 +1,15 @@
-# PhotoGallery - HackKP
+<img width="1470" height="956" alt="Screenshot 2025-09-15 at 20 44 43" src="https://github.com/user-attachments/assets/fbd86eb3-9cbc-4d3e-83e5-ab0af52afc69" /># PhotoGallery - HackKP
 
 A modern, feature-rich photo gallery application built with the MERN stack (MongoDB, Express.js, React, Node.js). This application allows users to manage and showcase their photos with a beautiful, responsive interface.
 
-![PhotoGallery Preview](screenshots/preview.png) <!-- You can add screenshots later -->
 
-## 🌟 Features
+<img width="1470" height="956" alt="Screenshot 2025-09-15 at 20 44 30" src="https://github.com/user-attachments/assets/fcec373a-86ec-4ee6-ac5e-7d3fe4006ad1" />
+<img width="1470" height="956" alt="Screenshot 2025-09-15 at 20 44 40" src="https://github.com/user-attachments/assets/0011ce3e-e446-432f-83f4-6cc908d71133" />
+<img width="1470" height="956" alt="Screenshot 2025-09-15 at 20 44 34" src="https://github.com/user-attachments/assets/128b5185-862b-4787-bd9e-410651a26d24" />
+[Uploading Screenshot 2025-09-15 at 20.44.43.png…]()
+
+## 🌟 Features!
+
 
 - **User Authentication**
   - Secure registration and login
